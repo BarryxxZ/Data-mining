@@ -1,1 +1,2 @@
 # Data-mining
+This paper analyzes the mutual information from datasets and evaluate them by algorithms. In probability theory and information theory, the mutual information (MI) of two random variables is a measure of the mutual dependence between the two variables. With the development of this project, it was possible to verify that among the available characteristics of the cancer, it is highly feasible to predict whether it is malign or benign by just considering Clump Thickness, Uniformity of Cell Size and Bare Nuclei characteristics.
